@@ -22,6 +22,7 @@ h2{
 #main-bio{
     float: left;
     width: 70%;
+    height: auto;
 }
 #contact-info{
     float: left;
